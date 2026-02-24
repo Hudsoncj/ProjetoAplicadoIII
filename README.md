@@ -1,4 +1,4 @@
-# 📊 PROJETO APLICADO III - Ciências de Dados - 2025.2 - 201825166.000.04A
+# 📊 PROJETO APLICADO III - Ciências de Dados - 2026.1 - 201825166.000.04A
 
 ## 👍 Sistema de Recomendações
 
