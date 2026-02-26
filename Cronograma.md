@@ -53,7 +53,7 @@
 
 ## ETAPA 4 – Encerramento
 
-**Período Total: 08/11 a 24/11**
+**Período Total: 28/04 a 18/05**
 
 | Período | Atividades | Responsável |
 | :---: | :--- | :---: |
