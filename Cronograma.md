@@ -14,7 +14,7 @@
 | 27/02 - 28/02| Definição do cronograma detalhado | Laura |
 | 28/02 | Estrutura inicial do README | Laura |
 | 01/03 | Revisão geral | Todos |
-| 03/03 - 29/08 | **Entrega** | **Todos** |
+| 03/03 | **Entrega** | **Todos** |
 
 
 
