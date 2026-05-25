@@ -1,0 +1,18 @@
+# Local database (user registrations & feedback — not for version control)
+users.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
