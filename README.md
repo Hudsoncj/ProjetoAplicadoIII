@@ -15,7 +15,10 @@ O projeto está alinhado ao Objetivo de Desenvolvimento Sustentável 8 da ONU, e
 ## 🔗 Link do Dataset
 https://www.kaggle.com/datasets/thedevastator/udemy-courses-revenue-generation-and-course-anal?resource=download
 
-## 🔗 Link do APP Streamlit
+## 🔗 Link do APP Recomendador de Cursos Udemy
 https://projetoaplicadoiii-fjtufsmfarfb79sjodpddh.streamlit.app
 
-## 🔗 Link apresentação projeto
+## 🔗 Link Apresentação do APP Recomendador
+https://youtu.be/GSthi8TA0eg
+
+## 🔗 Link Apresentação do Projeto no Youtube
