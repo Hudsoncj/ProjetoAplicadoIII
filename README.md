@@ -22,3 +22,4 @@ https://projetoaplicadoiii-fjtufsmfarfb79sjodpddh.streamlit.app
 https://youtu.be/GSthi8TA0eg
 
 ## 🔗 Link Apresentação do Projeto no Youtube
+https://youtu.be/JPAITnrAPtA
